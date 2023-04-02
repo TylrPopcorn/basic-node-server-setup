@@ -1,0 +1,25 @@
+{
+  "name": "basic-node-server-setup",
+  "version": "1.0.0",
+  "description": "literally just an example for me to look back at.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylrPopcorn/basic-node-server-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylrPopcorn/basic-node-server-setup/issues"
+  },
+  "homepage": "https://github.com/TylrPopcorn/basic-node-server-setup#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
