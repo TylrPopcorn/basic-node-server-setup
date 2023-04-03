@@ -14,7 +14,7 @@ Use the following endpoints below to access to the catalog api:
 
 **Instructions**
 
-All hat data is kept within a table located within the client side. To view or add new hats, you must import them into your table. Once the hats have been imported, you may view/delete the item as ease. The imports update every few 5-15 minutes.
+All hat data is kept within a table located within the client side. To view or add new hats, you must import them into your table. Once the hats have been imported, you may view/delete the item as ease. The imports update every 5-15 minutes.
 
 
 
